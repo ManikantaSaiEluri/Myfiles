@@ -1,0 +1,32 @@
+.form{
+    text-align :center ;
+    border: solid black;
+    padding: 25px;
+    width: 400px;
+    position :relative;left: 38%;
+}
+header{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid black;
+}
+.headernav{
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+}
+body{
+    background-image:url("C:/Users/HOU-108/Desktop/web/forest-7471935__340.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+
+.t1:hover{
+    background-color: rgb(93, 206, 187);
+    color: rgb(43, 185, 138);
+}
